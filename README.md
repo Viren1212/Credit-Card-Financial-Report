@@ -12,7 +12,7 @@ This page focuses on customer demographics and segmentation.
 * **Visualizations:** Analyzes revenue by Age Group, Income Group, Top 5 States, Marital Status, and Education Level.
 * **Interactivity:** Includes slicers for filtering by Quarter, Week, Customer Job, and more.
 
-![Customer Report Screenshot](image_44d163.png)
+![Customer Report Screenshot](Credit Card Customer Report.png)
 
 ### 2. Transaction Report
 This page analyzes transaction-level data and spending patterns.
@@ -20,7 +20,7 @@ This page analyzes transaction-level data and spending patterns.
 * **Visualizations:** Tracks revenue by Card Category, Expenditure Type (Bills, Fuel, etc.), Customer Job, and transaction method (Chip, Swipe, Online).
 * **Trend Analysis:** Includes a dual-axis combo chart to track quarterly revenue against transaction counts.
 
-![Transaction Report Screenshot](image_44d183.png)
+![Transaction Report Screenshot](Credit Card Transaction Report.png)
 
 ## How to Use
 
